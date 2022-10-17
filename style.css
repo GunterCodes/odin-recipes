@@ -4,6 +4,9 @@ body {
 h1 {
     text-align: center;
 }
+h2 {
+    text-decoration: underline;
+}
 .gunter {
     width: 50%;
     height: auto;
