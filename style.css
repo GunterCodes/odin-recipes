@@ -11,3 +11,24 @@ h1 {
     margin-right: auto;
     display: block;
 }
+.pizzaguy {
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#cookie {
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#pancake {
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
